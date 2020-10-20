@@ -4,7 +4,7 @@
 
 * curses module
 '''python
-pip install curses
+    pip install curses
 '''
 
 ## ScreenShot

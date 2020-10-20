@@ -3,9 +3,9 @@
 ## Required Modules to run
 
 * curses module
-'''python
+```
     pip install curses
-'''
+```
 
 ## ScreenShot
 

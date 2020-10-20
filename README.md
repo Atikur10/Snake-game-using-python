@@ -1,8 +1,18 @@
 # Snake-game-using-python
-Snake game using python curses module
 
-You have to import windows-curses module using pip
+## Required Modules to run
 
-Currently i am trying to add score board to the game and saving the highest score on a file
+* curses module
+'''python
+pip install curses
+'''
 
-Screen border is not set yet but it was set to default right now (I am working on to add screen border)
+## ScreenShot
+
+![](/picture/screenshot.jpg)
+
+## Currently working
+
+* Tring to add a border to the game
+* Saving the player data to a file 
+* Showing highscore at the beginning of the game

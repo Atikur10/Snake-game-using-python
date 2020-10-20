@@ -13,6 +13,6 @@ pip install curses
 
 ## Currently working
 
-* Tring to add a border to the game
+* Trying to add a border to the game
 * Saving the player data to a file 
 * Showing highscore at the beginning of the game
